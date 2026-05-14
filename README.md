@@ -3,7 +3,6 @@
 ## Identitas
 - Nama : Audri Audrinorurt  
 - NIM  : 5241011041  
-- Kelas: (isi kelas kamu)
 
 ---
 
